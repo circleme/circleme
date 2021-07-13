@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @circleme
 - 👀 I’m interested in sound and consciousness.
-- 🌱 I’m currently learning music extraction algorithms.
-- 💞️ I’m looking to collaborate on music extraction implementation.
+- 🌱 I’m currently learning music extraction algorithms using machine learning.
+- 💞️ I’m looking to collaborate on music extraction implementation using machine learning.
 - 📫 Reach me at the email address giddymuse@gmail.com
 
 <!---
